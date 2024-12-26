@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =======================================================================================================================================
 
 * 🌍  I'm based in México
-* 🖥️  See my portfolio at [rcaceres.com](http://rcaceres.com)
+* 🖥️  See my portfolio at [rcaceres.com](http://rcaceres.com) (Outdated! Currently working on a new version!)
 * 🧠  I'm learning Artificial Intelligence for Data Science
 * 🤝  I'm open to collaborating on Web Development Projects
 
